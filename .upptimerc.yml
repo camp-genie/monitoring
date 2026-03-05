@@ -1,6 +1,7 @@
 owner: camp-genie
 repo: monitoring
 user-agent: camp-genie
+# noop: force a config-touch commit to retrigger workflows
 
 sites:
   - name: Camp Genie Web - Live
