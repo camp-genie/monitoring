@@ -1,7 +1,7 @@
 url: https://app.thisiscampgenie.com/api/monitoring/stripe-webhooks
 status: up
 code: 200
-responseTime: 252
-lastUpdated: 2026-03-26T23:37:25.680Z
+responseTime: 223
+lastUpdated: 2026-03-27T23:37:59.638Z
 startTime: 2026-03-05T18:05:48.174Z
 generator: Upptime <https://github.com/upptime/upptime>
